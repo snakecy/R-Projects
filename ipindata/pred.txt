@@ -1,0 +1,2 @@
+is_win	payingprice	days	hours	exchange_id	app_id	publiser_id	bidfloor	w	h	os	Osv	model	connectiontype	country	ua	carrier	js	user	carriername	app_cat	btype	mimes	badv	bcat	bid_price	newbidprice
+FALSE	1.0	2	0	1	130018880	null	0.0	320	50	2	8.4	iPod Touch 5G	2	USA	mac_other	null	1	1	WLAN	IAB1	null	application/javascript,image/gif,image/jpeg,image/png,text/html,text/javascript,text/plain	null	IAB7-28,IAB17-18,IAB26,IAB8-5,IAB25,IAB7-42,IAB9-9,IAB24,IAB23,IAB8-18	1.0	0.5
